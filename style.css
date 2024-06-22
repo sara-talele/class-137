@@ -1,0 +1,42 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 20px;
+    margin: 0;
+}
+
+.note{
+    font-size: 12px;
+    color: black;
+}
+
+#start,
+#no_of_object,
+#status{
+    font-size: 20px;
+}
+
+canvas{
+    margin-top: 70px;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    box-shadow: 5px 5px 5px white;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 2;
+    width: 100%;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+#obo{
+    color:white;
+}
+#object_name{
+    width: 50%;
+}
